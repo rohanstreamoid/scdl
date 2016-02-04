@@ -4,6 +4,8 @@
 # Soundcloud Music Downloader
 ## Description
 
+I am experimenting with this for python practice.
+
 This script is able to download music from http://www.soundcloud.com and set id3tag to the downloaded music.
 It should work with OS X, Linux, Windows.
 
