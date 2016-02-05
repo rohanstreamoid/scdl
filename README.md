@@ -18,8 +18,14 @@ It should work with OS X, Linux, Windows.
 ## Instructions
 ### Installation
 ___
+
+Install pip and Python 3 (not from brew)
+pip install six 
+
 1. Install scdl `pip3 install scdl`
 2. (Optional) Setup your path and your auth_token in `$HOME/.config/scdl/scdl.cfg`
+Download path eg: /User/Desktop/Music 
+Token get from link below
 
 
 ### Authentication:
